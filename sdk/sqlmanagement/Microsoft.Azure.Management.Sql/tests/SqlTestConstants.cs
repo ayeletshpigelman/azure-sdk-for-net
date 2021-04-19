@@ -14,7 +14,7 @@ namespace Sql.Tests
         public static readonly string DefaultDatabaseEdition = "Basic";
 
         // Default elastic pool edition
-        public static readonly string DefaultElasticPoolEdition = ElasticPoolEdition.Basic;
+        public static readonly string DefaultElasticPoolEdition = "Basic";
 
         public static Sku DefaultDatabaseSku()
         {
